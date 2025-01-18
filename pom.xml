@@ -23,6 +23,7 @@
 
 	<modules>
 		<module>naming-server</module>
+		<module>spring-cloud-config-server</module>
 	</modules>
 
 	<build>
